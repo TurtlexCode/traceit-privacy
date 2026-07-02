@@ -9,7 +9,7 @@ Hinweis: Diese Datenschutzerklärung wurde passend zur aktuellen App-Funktionali
 ## Verantwortlicher
 
 Oliver Heidebroek  
-E-Mail: oliver.heidebroek@web.de
+E-Mail: TraceItSupport@icloud.com
 
 ## Kurzfassung
 
@@ -117,7 +117,7 @@ Soweit anwendbar, hast du das Recht auf:
 - Widerruf erteilter Einwilligungen mit Wirkung für die Zukunft;
 - Beschwerde bei einer Datenschutzaufsichtsbehörde.
 
-Zur Ausübung deiner Rechte kontaktiere uns unter: oliver.heidebroek@web.de
+Zur Ausübung deiner Rechte kontaktiere uns unter: TraceItSupport@icloud.com
 
 ## Kinder
 
@@ -140,7 +140,7 @@ This policy is based on the current app functionality and is not a substitute fo
 ## Controller
 
 Oliver Heidebroek  
-Email: oliver.heidebroek@web.de
+Email: TraceItSupport@icloud.com
 
 ## Summary
 
@@ -225,7 +225,7 @@ iCloud data remains stored while iCloud sync is enabled or until you delete it i
 
 Where applicable, you may have rights to access, correct, delete, restrict, transfer, or object to processing of your personal data, withdraw consent for the future, and lodge a complaint with a data protection authority.
 
-To exercise your rights, contact: oliver.heidebroek@web.de
+To exercise your rights, contact: TraceItSupport@icloud.com
 
 ## Children
 
@@ -234,4 +234,3 @@ TraceIt is not directed specifically at children. If you believe a child has pro
 ## Changes
 
 This Privacy Policy may be updated when app features, data processing, or legal requirements change. The current version is published on this page.
-
