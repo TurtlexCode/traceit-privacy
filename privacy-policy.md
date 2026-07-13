@@ -29,11 +29,11 @@ Diese privaten Trackingdaten bleiben in der aktuellen Release-Version lokal auf 
 
 ## Community-Konto und Community-Inhalte
 
-Der öffentliche Community-Katalog kann ohne Community-Konto gelesen werden. Wenn du ein Lebensmittel einreichen möchtest, meldest du dich über **Mit Apple anmelden** an. Dabei verarbeitet Supabase Auth eine technische Benutzer-ID und – abhängig von deiner Apple-Auswahl – deine E-Mail-Adresse. Apple kann eine Relay-Adresse bereitstellen.
+Der öffentliche Community-Katalog kann ohne Community-Konto gelesen werden. Wenn du ein Lebensmittel einreichen oder eine strukturierte Inhaltsmeldung senden möchtest, meldest du dich über **Mit Apple anmelden** an. Dabei verarbeitet Supabase Auth eine technische Benutzer-ID und – abhängig von deiner Apple-Auswahl – deinen Namen und deine E-Mail-Adresse. Apple kann eine Relay-Adresse bereitstellen.
 
 Bei einer bewussten Einreichung werden ausschließlich die für die Katalogprüfung erforderlichen Lebensmitteldaten an Supabase übertragen: Name, Marke, Kategorie, Barcode, Portionsangaben, sieben Nährwertwerte pro 100 g sowie technische Einreichungs- und Moderationsdaten. Private Profil-, Tagebuch-, Gewichts-, Wasser-, Aktivitäts-, Rezept- oder HealthKit-Daten werden nicht an Supabase übertragen.
 
-Einreichungen sind zunächst nicht öffentlich und werden moderiert. Freigegebene Einträge erscheinen als **TraceIt Community** im öffentlichen Katalog. Problematische Inhalte können aus der App per E-Mail gemeldet und anschließend entfernt werden. Missbräuchliche Konten können gesperrt werden.
+Einreichungen sind zunächst nicht öffentlich und werden moderiert. Freigegebene Einträge erscheinen als **TraceIt Community** im öffentlichen Katalog. Angemeldete Nutzer können problematische Inhalte strukturiert melden; dabei werden der betroffene Eintrag, ein fester Meldegrund, optionale Details, die technische Benutzer-ID sowie Bearbeitungsdaten an Supabase übertragen. Ohne Anmeldung öffnet TraceIt stattdessen eine vorbereitete E-Mail in deiner Mail-App. Moderatoren können Inhalte entfernen und missbräuchliche Konten sperren.
 
 ## Kontolöschung
 
@@ -110,11 +110,11 @@ Depending on your use, TraceIt may process profile data, nutrition and diary dat
 
 ## Community Account and Content
 
-You may read the public Community catalog without a Community account. To submit a food, you sign in with **Sign in with Apple**. Supabase Auth then processes a technical user identifier and, depending on your Apple choice, your email address. Apple may provide a private relay address.
+You may read the public Community catalog without a Community account. To submit a food or send a structured content report, you sign in with **Sign in with Apple**. Supabase Auth then processes a technical user identifier and, depending on your Apple choice, your name and email address. Apple may provide a private relay address.
 
 An intentional submission sends only the food data needed for catalog review to Supabase: name, brand, category, barcode, serving information, seven nutrition values per 100 g, and technical submission and moderation metadata. Private profile, diary, weight, water, activity, recipe, or HealthKit data is not sent to Supabase.
 
-Submissions are not public until moderated. Approved items appear as **TraceIt Community** in the public catalog. Users can report problematic content by email from the app, moderators can remove content, and abusive accounts can be blocked.
+Submissions are not public until moderated. Approved items appear as **TraceIt Community** in the public catalog. Signed-in users can send structured reports; TraceIt sends the affected item, a fixed reason code, optional details, the technical user identifier, and handling metadata to Supabase. Without sign-in, TraceIt instead opens a prepared email in your mail app. Moderators can remove content and block abusive accounts.
 
 ## Account Deletion
 
