@@ -55,7 +55,7 @@ TraceIt fragt Berechtigungen erst an, wenn du die jeweilige Funktion nutzt. Kame
 
 ## Inhaltsmeldungen und Support
 
-Wenn du einen Community-Eintrag meldest oder den Support kontaktierst, öffnet TraceIt deine E-Mail-App mit einer vorbereiteten Nachricht. Erst wenn du die Nachricht selbst absendest, werden Absenderadresse, Nachrichtentext, die technische Katalog-ID und gegebenenfalls von dir ergänzte Angaben über deinen E-Mail-Anbieter an [TraceItSupport@icloud.com](mailto:TraceItSupport@icloud.com) übertragen.
+Wenn du angemeldet einen Community-Eintrag meldest, sendet TraceIt die strukturierte Meldung wie oben beschrieben an Supabase. Ohne Anmeldung öffnet TraceIt für Inhaltsmeldungen deine E-Mail-App mit einer vorbereiteten Nachricht. Für sonstige Supportanfragen wird ebenfalls die E-Mail-App verwendet. Erst wenn du eine solche Nachricht selbst absendest, werden Absenderadresse, Nachrichtentext, die technische Katalog-ID und gegebenenfalls von dir ergänzte Angaben über deinen E-Mail-Anbieter an [TraceItSupport@icloud.com](mailto:TraceItSupport@icloud.com) übertragen.
 
 ## Weitere Empfänger
 
@@ -136,7 +136,7 @@ TraceIt asks for permissions only when you use the related feature. Camera and p
 
 ## Content Reports and Support
 
-When you report a Community item or contact support, TraceIt opens your email app with a prepared message. Only if you send it yourself are your sender address, message, technical catalog ID, and any information you add transmitted through your email provider to [TraceItSupport@icloud.com](mailto:TraceItSupport@icloud.com).
+When you report a Community item while signed in, TraceIt sends the structured report to Supabase as described above. Without sign-in, TraceIt opens your email app with a prepared report. The email app is also used for other support requests. Only if you send such a message yourself are your sender address, message, technical catalog ID, and any information you add transmitted through your email provider to [TraceItSupport@icloud.com](mailto:TraceItSupport@icloud.com).
 
 ## Other Recipients
 
